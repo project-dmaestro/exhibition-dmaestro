@@ -1,6 +1,6 @@
-_## pièce de résistance_
+## pièce de résistance
 
-You can use the [editor on GitHub](https://github.com/project-dmaestro/exhibition-dmaestro/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hi, My name is Felicia Natalie Wijaya. I'm a fresh graduate from George Mason University majoring in Computational and Data Sciences with minor in Data Analysis. I built this Github Page during my free time while waiting for job call; it's been awfully difficult to land an interview since the pandemic started.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
