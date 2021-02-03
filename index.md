@@ -6,4 +6,5 @@
 
 ***
 
-<img src = "images/linkedin-logo.png" width = "100" height = "100">
+<img src = "images/linkedin-logo.png" width = "25" height = "25">
+<img src = "images/github-logo.png" width = "25" height = "25">
