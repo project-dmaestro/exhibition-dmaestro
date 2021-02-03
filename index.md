@@ -6,6 +6,4 @@
 
 ***
 
-# contact
-
-
+![Image of Yaktocat](https://project-dmaestro.github.com/images/linkedin-logo.png)
