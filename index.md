@@ -6,4 +6,4 @@
 
 ***
 
-![](images/linkedin-logo.png = 50x50)
+<img src = "images/linkedin-logo.png" width = "100" height = "100">
