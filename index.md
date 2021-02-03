@@ -6,4 +6,4 @@
 
 ***
 
-![Image of Yaktocat](https://github.com/project-dmaestro/exhibition-dmaestro/tree/gh-pages/images/linkedin-logo.png)
+![Image of Yaktocat](images/linkedin-logo.png)
