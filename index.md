@@ -6,4 +6,4 @@
 
 ***
 
-![Image of Yaktocat](images/linkedin-logo.png)
+![](images/linkedin-logo.png = 50x50)
