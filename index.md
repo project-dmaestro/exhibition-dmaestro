@@ -6,5 +6,7 @@
 
 ***
 
-<img src = "images/linkedin-logo.png" width = "25" height = "25">
-<img src = "images/github-logo.png" width = "25" height = "25">
+<p align = "left">
+  <a href = "https://www.linkedin.com/in/fwijaya/"> <img src = "images/linkedin-logo.png" width = "25" height = "25"> </a>
+  <a href = "https://github.com/project-dmaestro"> <img src = "images/github-logo.png" width = "25" height = "25"> </a>
+</p>
