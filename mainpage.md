@@ -4,13 +4,13 @@
 
 <p align = "justify"> The site contains snippets of my <i>pièce de résistance</i> starting from my junior year in college. The purpose of posting them up, aside as a portofolio, is to create a learning place. The contents that I posted hopefully will benefit someone out there as a reference or spark a discussion on efficient coding and whatnot. </p>
 
-<p align = "justify"> In my free time I like to indulge in a few hobbies like Origami and coffee hopping, the latter before the pandemic started. Nowadays, I watch YouTube videos on Asian streetfood and cook healthy meals on a regular basis. </p>
+<p align = "justify"> In my free time I like to indulge in a few hobbies like Origami and coffee hopping, the latter before the pandemic started. Nowadays, I watch YouTube videos on Asian streetfood and cook healthy meals on a regular basis while maintaining a healthier lifestyle for the body and the mind. </p>
 
 <hr>
 
-<h3> recent works </h3>
+<h2> recent works </h2>
 
-ddddd
+<h3> <a href = "https://project-dmaestro.github.io/data-interview-qs/" target = "_blank"> </h3>
 
 <hr>
 
