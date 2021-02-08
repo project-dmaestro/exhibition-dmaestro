@@ -18,9 +18,7 @@
 <p align = "left">
   <a href = "https://www.linkedin.com/in/fwijaya/" target = "_blank"> <img src = "images/linkedin-logo.png" width = "25" height = "25"> </a>
   <a href = "https://github.com/project-dmaestro" target = "_blank"> <img src = "images/github-logo.png" width = "25" height = "25"> </a>
-  <a href = "mailto:project-dmaestro@gmail.com?
-             subject=hello%from%exhibition-dmaestro&
-             body=carpe%diem%fortissimum%bellator">
+  <a href = "mailto:project-dmaestro@gmail.com?subject=hello%20from%20exhibition-dmaestro">
     <img src = "images/gmail-logo.png" width = "25" height = "25">
   </a>
 </p>
