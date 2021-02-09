@@ -13,7 +13,7 @@
 <h3> <a href = "https://project-dmaestro.github.io/data-interview-qs/" target = "_blank"> Data Interview Qs </a></h3>
 <p align = "justify"> I attempt to explain and come up with a solution for <a href = "https://www.interviewqs.com/" target = _blank> Data Interview Qs </a> weekly challenges using R, Python and SQL. The question covers both data science and basic programming competencies that's usually asked during tech interviews. The skills in questions are database querying, statistics, machine learning, simulation, data analysis, data visualization, data manipulation and data structure. I'm open for discussion to a plethora of different answers to improve my understanding and coding ability <strike> because detailed solutions require subscription and I'm broke. </strike></p>
 
-<hr>
+<hr><hr>
 
 <p align = "left">
   <a href = "https://www.linkedin.com/in/fwijaya/" target = "_blank"> <img src = "images/linkedin-logo.png" width = "25" height = "25"> </a>
