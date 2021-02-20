@@ -1,4 +1,4 @@
-<h1> selamat datang </h1>
+<h1> /ˈwelkəm/ </h1>
 
 <p align = "justify"> My name is Felicia Natalie Wijaya. I'm an Indoensian fresh graduate from George Mason University, majoring in Computational and Data Sciences with minor in Data Analysis. I built this Github Page while waiting for interviews under the pretense of being highly productive during the pandemic. </p>
 
