@@ -22,3 +22,5 @@
     <img src = "images/gmail-logo.png" width = "25" height = "25">
   </a>
 </p>
+
+#### This work is licensed under [Creative Commons Legal Code CC0 1.0 Universal](LICENSE.md).
